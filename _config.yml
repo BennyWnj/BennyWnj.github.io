@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/img/wby.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an from Nanjing, a city with a long history yet very youthful"
   location         : "Atlanta, GA"
-  email            : "bingyaowang.nj@gmail.com"
+  email            : #"bingyaowang.nj@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -123,7 +123,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/https://www.facebook.com/profile.php?id=100012773774011"
+      url: "https://facebook.com/profile.php?id=100012773774011"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BennyWnj"
