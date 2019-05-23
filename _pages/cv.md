@@ -8,8 +8,7 @@ you can download the pdf version of my cv [here](https://github.com/BennyWnj/Job
 
 ## Education
 * **Georgia Tech**
-    
-    B.S.  Computer Science 
+   * B.S. Computer Science *2018 - (Expected) 2021* 
      
 ## Experience
 * **Full Stack Engineer** at [**GT Bits of Good**](https://bitsofgood.org/).
