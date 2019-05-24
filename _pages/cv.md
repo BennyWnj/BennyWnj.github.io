@@ -23,8 +23,8 @@ Full Stack, Web Development, Open Source
 
 **Skills**
 * **Programming**: Java(proficient), Javascript/ES6+(proficient) <br/>
-    Python(proficient), C/C++(familiar), Scala(familiar), Swift(familiar) <br/>
-    Sql(familiar), Bash(familiar), Go(familiar)
+    Python(proficient), C/C++(familiar), Scala(familiar) <br/>
+    Swift(familiar), Sql(familiar), Bash(familiar), Go(familiar)
 * **Web**: React, Redux, Node/Express, MongoDB, MySQL<br/>
     HTML, CSS, Bootstrap, Play, Heroku
 * **Data Science**: Hadoop, Spark, Numpy, Pandas, Matplotlib <br/>
