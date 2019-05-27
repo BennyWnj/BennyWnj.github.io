@@ -33,7 +33,7 @@
           <entry key="html" value="32" />
           <entry key="js" value="2" />
           <entry key="md" value="5" />
-          <entry key="scss" value="2" />
+          <entry key="scss" value="5" />
           <entry key="yml" value="6" />
         </counts>
       </usages-collector>
@@ -43,7 +43,7 @@
           <entry key="JavaScript" value="2" />
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SCSS" value="2" />
+          <entry key="SCSS" value="5" />
           <entry key="YAML" value="6" />
         </counts>
       </usages-collector>
@@ -52,7 +52,7 @@
           <entry key="Gemfile" value="1" />
           <entry key="html" value="88" />
           <entry key="md" value="2687" />
-          <entry key="scss" value="15" />
+          <entry key="scss" value="16" />
           <entry key="yml" value="587" />
         </counts>
       </usages-collector>
@@ -61,7 +61,7 @@
           <entry key="HTML" value="88" />
           <entry key="Markdown" value="2687" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="15" />
+          <entry key="SCSS" value="16" />
           <entry key="YAML" value="587" />
         </counts>
       </usages-collector>
@@ -88,18 +88,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_archive.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150" />
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            <state relative-caret-position="318">
+              <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/posts.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -126,18 +146,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-158" />
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/single.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-953" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/splash.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -280,16 +288,15 @@
       <workItem from="1558762321411" duration="120000" />
       <workItem from="1558762445643" duration="1939000" />
       <workItem from="1558847720165" duration="1784000" />
-      <workItem from="1558935335011" duration="654000" />
+      <workItem from="1558935335011" duration="939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17979000" />
+    <option name="totallyTimeSpent" value="18264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16094421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -470,10 +477,29 @@
         <state relative-caret-position="-155" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_archive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state relative-caret-position="318">
+          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
         </state>
       </provider>
     </entry>
