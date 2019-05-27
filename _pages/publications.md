@@ -1,5 +1,4 @@
 ---
-layout: categories
 title: Publications
 permalink: /pub/
 tags: [papers]
