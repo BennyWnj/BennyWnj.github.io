@@ -52,7 +52,7 @@
           <entry key="Gemfile" value="1" />
           <entry key="html" value="88" />
           <entry key="md" value="2687" />
-          <entry key="scss" value="12" />
+          <entry key="scss" value="15" />
           <entry key="yml" value="587" />
         </counts>
       </usages-collector>
@@ -61,7 +61,7 @@
           <entry key="HTML" value="88" />
           <entry key="Markdown" value="2687" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="12" />
+          <entry key="SCSS" value="15" />
           <entry key="YAML" value="587" />
         </counts>
       </usages-collector>
@@ -91,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+            <state relative-caret-position="177">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -280,12 +280,12 @@
       <workItem from="1558762321411" duration="120000" />
       <workItem from="1558762445643" duration="1939000" />
       <workItem from="1558847720165" duration="1784000" />
-      <workItem from="1558935335011" duration="612000" />
+      <workItem from="1558935335011" duration="654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17937000" />
+    <option name="totallyTimeSpent" value="17979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -472,8 +472,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        <state relative-caret-position="177">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
         </state>
       </provider>
     </entry>
