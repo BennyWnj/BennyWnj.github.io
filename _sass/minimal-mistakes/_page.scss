@@ -75,7 +75,7 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.5em;
   }
 
   /* paragraph indents */
@@ -499,11 +499,11 @@
 
 .wide {
   .page {
-    @include breakpoint($large) {
+    @include breakpoint($medium) {
       padding-right: 0;
     }
 
-    @include breakpoint($x-large) {
+    @include breakpoint($medium) {
       padding-right: 0;
     }
   }
