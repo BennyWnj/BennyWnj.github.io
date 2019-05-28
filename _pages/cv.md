@@ -7,7 +7,7 @@ comments: false
 ---
 you can download the pdf version of my cv [here](https://github.com/BennyWnj/Job-related/blob/master/Bingyao%20Wang%20Resume.pdf) <br/>
 
-**Interests**
+**Interests** <br/>
 Data Science/Big Data, Machine Learning, Deep Learning
 Software Engineering, Computer Vision, Algorithms 
 Full Stack, Web Development, Open Source
