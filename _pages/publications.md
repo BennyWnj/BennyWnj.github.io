@@ -1,4 +1,5 @@
 ---
+classes: wide
 title: Publications
 permalink: /pub/
 tags: [papers]
