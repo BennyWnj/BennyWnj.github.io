@@ -13,7 +13,7 @@ Software Engineering, Computer Vision, Algorithms
 Full Stack, Web Development, Open Source
 
 **Education**
-* **Georgia Institute of Technology**, Atlanta, Georgia 
+* **Georgia Institute of Technology**, Atlanta, Georgia <br/>
   **B.S. Computer Science**,  Aug. 2018 - (Expected) 2021
 
 **Experience**
