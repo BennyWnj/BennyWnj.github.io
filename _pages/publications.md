@@ -5,7 +5,7 @@ permalink: /pub/
 tags: [papers]
 comments: false
 ---
-### 2019
+**2019**
 * **Characterizing the Execution of Deep Neural Networks on
     Collaborative Robots and Edge Devices** <br/>
     *Matthew Merck, **Bingyao Wang**, Lixing Liu, Chunjun Jia,
