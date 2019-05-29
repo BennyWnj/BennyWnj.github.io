@@ -1,5 +1,4 @@
 ---
-classes: wide
 title: Projects
 permalink: /project/
 tags: [project]
