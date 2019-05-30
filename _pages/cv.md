@@ -1,5 +1,4 @@
 ---
-classes: wide
 title: My CV
 permalink: /cv/
 tags: [cv]
