@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Bingyao Wang"
   avatar           : "/assets/img/wby.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am from Nanjing, a city with a long history yet very youthful"
+  bio              : "I am from Nanjing, a youthful city with a long history"
   location         : "Atlanta, GA"
   email            : #"bingyaowang.nj@gmail.com"
   links:
