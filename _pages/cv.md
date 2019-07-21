@@ -16,6 +16,8 @@ Full Stack, Web Development, Open Source
   **B.S. Computer Science**,  Aug. 2018 - (Expected) 2021
 
 **Experience**
+* **Intern Researcher** at NARI Technical Research Center. <br/>
+    Nanjing, China | Summer 2019
 * **Full Stack Engineer** at [**GT Bits of Good**](https://bitsofgood.org/). <br/>
     Atlanta, Georgia | 2019.1 - Present
 * **Research Assistant** at [**HPArch Group**](http://comparch.gatech.edu/hparch/index.html). <br/>
