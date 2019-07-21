@@ -25,6 +25,7 @@ data on their devices, and also upload them to the server.
 An ML model for preference prediction which was the product of T-Mobile Hackathon in 
 order to help predict users’ choice of mobile carriers and incorporated data selecting, 
 data cleaning, machine learning with **Numpy**, **Pandas** and **Scikit-Learn**
+<pre></pre>
 
 
 [**Todo App**](https://github.com/BennyWnj/myReactApp) <br/>
