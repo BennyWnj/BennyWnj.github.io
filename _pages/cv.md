@@ -4,7 +4,7 @@ permalink: /cv/
 tags: [cv]
 comments: false
 ---
-you can download the pdf version of my cv [here](https://github.com/BennyWnj/Job-related/blob/master/Bingyao%20Wang%20Resume.pdf) <br/>
+you can download the pdf version of my cv [here](https://gitlab.com/BennyWnj/job-related/blob/master/Bingyao%20Wang%20Resume.pdf) <br/>
 
 **Interests** <br/>
 Data Science/Big Data, Machine Learning, Deep Learning
